@@ -27,3 +27,12 @@
 .table-c{
 	background-color:  #cbcdce;
 }
+
+.navbar .nav li {
+
+  display: inline %;
+}
+
+.index{
+	padding-top:  30%;
+}
